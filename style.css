@@ -1,0 +1,75 @@
+
+/*change background color of the entire page*/
+html{
+    background: #77c3ec;
+    padding: 20px;
+    padding-right: 10px;
+}
+
+/*places border around the contents of the page*/
+body{
+    border: solid;
+    border-color: rgb(53,186,53);
+    padding: 40px;
+}
+
+/*change the primary heading color and font*/
+h1{
+    font-family: 'Gelasio', serif;
+    color: white;
+    text-align: center;
+}
+
+/*align the text in the header with the center of the page*/
+header{
+    text-align: center;
+}
+
+/*adjust the color and font of the lable in the header*/
+label{
+    color: white;
+    font-family: 'Libre Franklin', sans-serif;
+}
+
+/*adjust the logo size*/
+img{
+    width: 15%;
+    height: 15%;
+    float: right;
+}
+
+/*change all links to the same color and font*/
+a{
+    font-family:'Libre Franklin', sans-serif;
+    color: rgb(53,186,53);
+}
+
+/*add dividers between links and labels*/
+.divider{
+    font-family:'Libre Franklin', sans-serif;
+    color: grey;
+}
+
+/*change secondary headings to white and change font*/
+h2{
+    color:white;
+    font-family: 'Libre Franklin', sans-serif;
+    height: 20px;
+
+}
+
+/*make paragraphs same font and color*/
+p{
+    color: white;
+    font-family: 'Vollkorn', serif;
+}
+
+/*align text in the footer with the center of the page*/
+footer{
+    text-align: center;
+}
+
+
+
+
+
